@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">Hello there 👋</h3>
 
-<!--
-**Gudorlltti/gudorlltti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![wakatime](https://wakatime.com/badge/user/018c77bf-184f-4db7-b9df-54f49254e20c.svg)](https://wakatime.com/) 
 
-Here are some ideas to get you started:
+<h3 align="left">I'm Gudo, a  developer from germany. 😊<br><br></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 📍 About me:
+- I am currently working on various private projects.
+
+
+
+## 💻 Major Uses
+
+<h3 align="left">Programming Languages</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java" />
+  </a>
+</p>
+
+<h3 align="left">Applications & Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,idea,androidstudio,firebase,figma" />
+  </a>
+</p>
+
+
+
+## 🚀 Get in touch
+
+<p align="left">
+  <a href="https://discord.com/users/849610030431993916"><img src="https://skillicons.dev/icons?i=discord"/></a>
+</p>
