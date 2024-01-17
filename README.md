@@ -24,7 +24,7 @@
 <h3 align="left">Applications & Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,idea,androidstudio,firebase,figma,git,raspberrypi,godot&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,idea,androidstudio,firebase,figma,git,raspberrypi&perline=6" />
   </a>
 </p>
 
