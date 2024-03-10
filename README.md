@@ -24,11 +24,12 @@
 ## 💻 Major Uses
 
 <h3 align="left">Programming Languages</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java" />
-  </a>
-</p>
+
+![Static Badge](https://img.shields.io/badge/Python-00000?style=for-the-badge&labelColor=gray&color=blue)
+![Static Badge](https://img.shields.io/badge/Java-52625?style=for-the-badge&logo=jdk&logoColor=yellow&labelColor=gray&color=red)
+
+
+
 
 <h3 align="left">Applications & Tools</h3>
 <p align="left">
