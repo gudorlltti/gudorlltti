@@ -10,11 +10,14 @@
 
 - I am currently working on various private projects. :p 
 
+<br>
 
 ## 🚀 Projects/Portfolio
 
 - coming soon?
 
+<br>
+--
 
 ## 💻 Major Uses
 
@@ -32,7 +35,7 @@
   </a>
 </p>
 
-
+--
 
 ## 💬 Contact
 
