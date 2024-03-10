@@ -17,7 +17,7 @@
 - coming soon?
 
 <br>
---
+---
 
 ## 💻 Major Uses
 
@@ -35,7 +35,7 @@
   </a>
 </p>
 
---
+---
 
 ## 💬 Contact
 
