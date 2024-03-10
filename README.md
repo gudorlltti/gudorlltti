@@ -2,14 +2,18 @@
 
 [![wakatime](https://wakatime.com/badge/user/018c77bf-184f-4db7-b9df-54f49254e20c.svg)](https://wakatime.com/) 
 
-<h3 align="left">I'm Gudo, a  developer from germany. 😊<br><br></h3>
-
+<h3 align="left">I'm Gudo, a developer from germany. 😊<br><br></h3>
 
 
 
 ## 📍 About me:
-- I am currently working on various private projects.
 
+- I am currently working on various private projects. :p 
+
+
+## 🚀 Projects/Portfolio
+
+> coming soon:tm:
 
 
 ## 💻 Major Uses
@@ -24,13 +28,13 @@
 <h3 align="left">Applications & Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,idea,androidstudio,firebase,figma,git,raspberrypi&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,idea,androidstudio, firebase,github&perline=6" />
   </a>
 </p>
 
 
 
-## 🚀 Get in touch
+## 💬 Contact
 
 <p align="left">
   <a href="https://discord.com/users/849610030431993916"><img src="https://skillicons.dev/icons?i=discord"/></a>
