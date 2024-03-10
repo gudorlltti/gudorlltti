@@ -4,6 +4,7 @@
 
 <h3 align="left">I'm Gudo, a developer from germany. 😊<br><br></h3>
 
+---
 
 
 ## 📍 About me:
