@@ -13,7 +13,7 @@
 
 ## 🚀 Projects/Portfolio
 
-> coming soon:tm:
+- coming soon?
 
 
 ## 💻 Major Uses
